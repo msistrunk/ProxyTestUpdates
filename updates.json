@@ -1,7 +1,6 @@
 {
     "win32-x64-prod": {
       "readme": "Second release",
-      "update": "https://s3.amazonaws.com/proxytester",
       "install": "https://s3.amazonaws.com/proxytester/ProxyTester+Setup+0.0.2.exe",
       "version": "0.0.2"
     }
