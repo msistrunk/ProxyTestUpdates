@@ -1,8 +1,8 @@
 {
     "win32-x64-prod": {
       "readme": "Second release",
-      "update": "https://s3.amazonaws.com/proxytester/ProxyTester+Setup+0.0.2.exe",
-      "install": "https://s3.amazonaws.com/proxytester/ProxyTester+Setup+0.0.2.exe",
+      "update": "https://raw.githubusercontent.com/msistrunk/ProxyTestUpdates/master/release.json",
+      "install": "https://github.com/msistrunk/ProxyTestUpdates/releases/download/win0.0.2/ProxyTester Setup 0.0.2",
       "version": "0.0.2"
     }
   }
