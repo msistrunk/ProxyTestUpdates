@@ -1,8 +1,8 @@
 {
     "win32-x64-prod": {
       "readme": "Third release",
-      "update": "https://github.com/msistrunk/ProxyTestUpdates/releases/download/win32-x64-prod-v0.0.4",
-      "install": "https://github.com/msistrunk/ProxyTestUpdates/releases/download/win32-x64-prod-v0.0.4/ProxyTester.Setup.0.0.4.exe",
-      "version": "0.0.4"
+      "update": "https://github.com/msistrunk/ProxyTestUpdates/releases/download/win32-x64-prod-v0.0.5",
+      "install": "https://github.com/msistrunk/ProxyTestUpdates/releases/download/win32-x64-prod-v0.0.5/ProxyTester.Setup.0.0.5.exe",
+      "version": "0.0.5"
     }
   }
