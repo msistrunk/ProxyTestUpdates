@@ -10,5 +10,5 @@
       "update": "https://github.com/msistrunk/ProxyTestUpdates/releases/download/darwin-x64-prod-v0.0.6/release.json",
       "install": "https://github.com/msistrunk/ProxyTestUpdates/releases/download/darwin-x64-prod-v0.0.6/Simple.Updater.Example-0.0.6.dmg",
       "version": "0.0.6"
-    },
+    }
   }
